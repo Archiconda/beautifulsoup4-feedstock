@@ -21,6 +21,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/beautifulsoup4-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/beautifulsoup4-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/beautifulsoup4-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/beautifulsoup4-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/beautifulsoup4-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/beautifulsoup4-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d1a6d1578b0700305b9e/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/beautifulsoup4-feedstock)
 
 Current release info
 ====================
